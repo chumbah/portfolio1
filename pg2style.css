@@ -1,0 +1,23 @@
+body{
+    background-image: url("background9.jpg");
+}
+head{
+    color: aqua;
+}
+p{
+    color: aqua;
+}
+h1{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+    padding-left: 15px;
+}
+li{
+    color: aliceblue;
+}
+pre{
+    color: aliceblue;
+    font-size: medium;
+}
